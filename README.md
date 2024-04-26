@@ -1,19 +1,19 @@
 # Reservation-system-tkinter
 
-<img width="630" alt="Reservation-System-Tkinter" src="https://github.com/bilalfatian/Reservation-system-tkinter/assets/92918987/ade936dc-b19c-47a5-b803-cd2cec730775">
+<img width="630" alt="Reservation-System-Tkinter" src="https://github.com/khemisse-radwane/reservation-system-tkinter/blob/main/Screenshot%202024-04-26%20090254.png">
 
 
-Ce projet vise à mettre en place une application de gestion pour une agence, spécialisée dans la location de maisons de vacances sur des îles. Actuellement, la gestion des données se fait de manière manuelle, ce qui rend difficile l'extraction rapide et efficace d'informations cruciales. Pour remédier à cette situation, une base de données et des interfaces graphiques seront mises en place afin d'améliorer le service clientèle.
+L'objectif de ce projet est de développer une application de gestion destinée à une agence spécialisée dans la location de maisons de vacances sur des îles. Actuellement, la gestion des données se fait manuellement, ce qui entrave la capacité à extraire rapidement et efficacement des informations importantes. Pour résoudre ce problème, nous mettrons en place une base de données ainsi que des interfaces graphiques pour améliorer le service client.
 
 # Objectif du Projet
-L'objectif principal est de concevoir et développer un système d'information permettant à l'agence de gérer efficacement ses réservations de maisons de vacances. Cela implique la création d'un modèle entité-association, d'un schéma relationnel, de contraintes d'intégrité, de tables de base de données, ainsi que le développement d'interfaces graphiques pour l'insertion, la recherche, la modification et la suppression de données.
+Le but principal est de créer et de mettre en place un système d'information qui permettra à l'agence de gérer ses réservations de maisons de vacances de manière efficace. Cela englobe la conception d'un modèle entité-association, d'un schéma relationnel, de contraintes d'intégrité, de tables de base de données, ainsi que le développement d'interfaces graphiques pour l'insertion, la recherche, la modification et la suppression des données.
 
 # Contenu du Projet
 ## Modèle Entité-Association (E/A):
-- Identifie les entités telles que Maison, Client et Réservation.
-- Définit les associations entre ces entités, telles que la relation entre Client et Réservation.
-- Spécifie les attributs pour chaque entité, comme le nom de la maison, l'adresse du client, etc.
-- Définit les clés d'identification pour chaque entité, par exemple, l'identifiant de la maison comme clé primaire.
+  - Identifie les entités telles que Maison, Client et Réservation, en les distinguant clairement.
+  - Établit les liens entre ces entités, comme la relation entre Client et Réservation, pour une compréhension précise des interactions.
+  - Précise les caractéristiques spécifiques à chaque entité, telles que le nom de la maison, l'adresse du client, etc., pour une description détaillée.
+  - Définit les clés d'identification pour chaque entité, par exemple, en utilisant l'identifiant de la maison comme clé primaire, afin d'assurer une gestion efficace et unique des données.
 ## Schéma Relationnel:
 - Crée une représentation du modèle E/A en termes de tables relationnelles.
 - Identifie les clés primaires et étrangères pour chaque table.
